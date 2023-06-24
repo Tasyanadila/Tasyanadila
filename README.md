@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasyanadila&label=Profile%20views&color=0e75b6&style=flat" alt="tasyanadila" /> </p>
 
-<h3> 🎓I'm an undergraduate student at Syiah Kuala university </h3>
+<h3> 🎓I'm an undergraduate student at Syiah Kuala University </h3>
 
-- 🌱 I’m currently: learning Data science
+- 🌱 I’m currently: learning Data Analysts
 - 📫 How to reach me: tasyanadila28012004@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a chocolate addict 🍫
